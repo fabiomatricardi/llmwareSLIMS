@@ -37,5 +37,11 @@ streamlit run myapp.py
 During the first execution the application will download the models on your local machine <br>
 in the cache HuggingFace directory, something like this:
 
+```
+C:\Users\User\.cache\huggingface\hub
+```
+
+<img src="https://github.com/fabiomatricardi/llmwareSLIMS/raw/main/cacheDIR.png" width=700>
+
 
 
