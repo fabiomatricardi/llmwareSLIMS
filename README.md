@@ -38,7 +38,8 @@ During the first execution the application will download the models on your loca
 in the cache HuggingFace directory, something like this:
 
 ```
-C:\Users\User\.cache\huggingface\hub
+C:\Users\User\.cache\huggingface\hub   for the non quantized models
+C:\Users\User\llmware_data\model_repo  for the GGUF files
 ```
 
 <img src="https://github.com/fabiomatricardi/llmwareSLIMS/raw/main/cacheDIR.png" width=700>
